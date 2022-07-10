@@ -9,7 +9,7 @@ Step 3: From the same, we can get idea about how to open this file for further i
 
 ![Screenshot 2022-07-10 234506](https://user-images.githubusercontent.com/90497253/178157080-58f00960-a6af-4f31-9b2e-c82e8fb36776.png)
 The First link is of some Repo on Github (https://github.com/NenadPantelic/Simple-digital-logic-circuits-in-LogiSim/blob/master/README.md), from which we can further see we need to use 'LogiSim simulation tool' to view our file.
-# Another important thing to note LogiSim open '.circ', so simply change the extension of file to same.
+### Another important thing to note LogiSim open '.circ', so simply change the extension of file to same.
 
 Step 4: Download LogiSim and Open the file i.e. 'final_assignment.circ' onto same.
 
